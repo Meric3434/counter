@@ -1,0 +1,13 @@
+/* App.js iÃ§inde veya ayrÄ± bir CSS dosyasÄ±nda */
+/* ... diÄŸer stiller ... */
+
+/* ... diÄŸer stiller ... */
+
+
+
+
+.tÃ¼r-grubu {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-around; 
+}
